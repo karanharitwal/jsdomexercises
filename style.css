@@ -5,3 +5,6 @@
     border: solid;
     margin: 10px;
 }
+body{
+    background: linear-gradient(35deg, #ccffff,#ffcccc);
+}
